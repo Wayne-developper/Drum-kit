@@ -8,7 +8,6 @@ Users can play different percussion sounds by clicking the drum buttons or press
 
 [Play the Drum Kit](YOUR-GITHUB-PAGES-LINK)
 
-> Replace `YOUR-GITHUB-PAGES-LINK` with your GitHub Pages URL.
 
 ## Preview
 

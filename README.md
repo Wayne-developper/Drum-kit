@@ -11,7 +11,7 @@ Users can play different percussion sounds by clicking the drum buttons or press
 
 ## Preview
 
-![Interactive Drum Kit Preview](./screen-drum-kit.png)
+![Interactive Drum Kit Preview](.Drum%20Starting%20Files/screen-drum-kit.png)
 
 ## Features
 

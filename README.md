@@ -6,7 +6,7 @@ Users can play different percussion sounds by clicking the drum buttons or press
 
 ## Live Demo
 
-[Play the Drum Kit](YOUR-GITHUB-PAGES-LINK)
+[Play the Drum Kit](https://wayne-developper.github.io/Drum-kit/)
 
 
 ## Preview
